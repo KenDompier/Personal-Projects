@@ -75,7 +75,7 @@ def youtube():
   try: 
     while True:
       count = 1 #if it goes beyond one, the program outputs videos with similar titles. so its set to 1
-      API_KEY = 'AIzaSyBHXQJ1KWqwCluldKjz9cYSiwCPX37Ijbg'
+      API_KEY = 'put your key here'
 
       #make range random for more random results
       numTry = random.randint(3,5)
